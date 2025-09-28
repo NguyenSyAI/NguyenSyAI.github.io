@@ -23,6 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
+  
   avatar           : "/assets/images/QGOG1219.JPG"
   name             : "SY NGUYEN"
   pronouns         : # example: "she/her"  
