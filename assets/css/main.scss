@@ -42,16 +42,3 @@
     "vendor/font-awesome/brands"
 ;
 
-/* ===========================
-   Custom site title style
-   =========================== */
-.site-title {
-  font-family: "Brush Script MT", cursive;  /* Primary font, fallback cursive */
-  font-size: 56px;                          /* Bigger, more prominent */
-  font-weight: normal;                       /* Keep it elegant */
-  color: #1a1a1a;                            /* Dark gray for professionalism */
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
-  letter-spacing: 1px;                       /* Slight spacing for readability */
-  line-height: 1.2;                          /* Vertical spacing for clean look */
-  margin-bottom: 20px;                       /* Space below title */
-}
