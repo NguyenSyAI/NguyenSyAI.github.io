@@ -27,11 +27,12 @@ author:
   avatar           : "/assets/images/QGOG1219.JPG"
   name             : "SY NGUYEN"
   pronouns         : # example: "she/her"  
-  bio              : "Robotics-Computer vision-Deep learning"
+  bio              : "Robotics-Computervision-Deep learning "
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "nguyenvansy240@gmail.com sy.nguyen@ucf.edu" 
+  email            : "nguyenvansy240@gmail.com"
+  email1            : "sy.nguyen@ucf.edu"
 
   # Academic websites
   academia         : # URL
