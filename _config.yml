@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   
-  avatar           : "images/QGOG1219.JPG"
+  avatar           : "/assets/images/QGOG1219.JPG"
   name             : "SY NGUYEN"
   pronouns         : # example: "she/her"  
   bio              : "Robotics-Computervision-Deep learning "
